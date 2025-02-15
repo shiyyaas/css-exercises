@@ -3,6 +3,14 @@ p{
     background-color: rgb(233, 75, 75);
     font-size: 33px;
 }
+
+/*class*/
 .cooler{
     font-size: 45px;
+}
+
+/*id*/
+#num2{
+    color: blue;
+    font-size: 55px;
 }
