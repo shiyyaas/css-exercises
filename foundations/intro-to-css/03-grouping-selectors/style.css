@@ -2,3 +2,10 @@ button {
     font-size: 28px;
     font-family: helvetica,'times new roman', sans-serif;
 }
+.one {
+    background-color: black;
+    color: white;
+}
+.two {
+    background-color: yellow;
+}
