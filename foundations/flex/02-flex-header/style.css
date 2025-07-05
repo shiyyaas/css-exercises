@@ -1,13 +1,13 @@
 .header  {
   font-family: monospace;
-  background: papayawhip;
+  background: rgb(182, 158, 119);
 }
 
 .logo {
   font-size: 48px;
   font-weight: 900;
   color: tomato;
-  background: white;
+  background: rgb(202, 185, 185);
   padding: 4px 32px;
 }
 
