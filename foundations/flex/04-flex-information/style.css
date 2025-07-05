@@ -5,12 +5,31 @@ body {
 img {
   width: 100px;
   height: 100px;
+  
 }
 
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+  margin-bottom: 32px;
 }
+
+.total {
+  display: flex;
+  /* justify-content: space-around; */
+  /* background-color: black; */
+}
+
+.total > * {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+}
+
 
 /* do not edit this footer */
 .footer {
