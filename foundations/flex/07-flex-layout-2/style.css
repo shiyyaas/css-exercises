@@ -36,6 +36,8 @@ body {
   width: 300px;
   background: royalblue;
   flex-shrink: 0;
+  box-sizing: border-box;
+  padding: 16px;
 }
 
 .cardmain {  /*ONlY CARDS*/
@@ -59,6 +61,4 @@ a {
 ul {
   list-style: none; 
   font-size: 24px;
-  font-weight: 600;
-  
 }
